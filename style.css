@@ -1,0 +1,31 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+  width: 25rem;
+  height: 37.5rem;
+  margin: 10rem auto;
+  border: 2px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 1.25rem;
+}
+
+.qr_code {
+  width: 23.75rem;
+  height: 25rem;
+  margin: 1.25rem 0 0 0.625rem;
+  border-radius: 1.25rem;
+}
+
+h2 {
+  margin-left: 1.875rem;
+  margin-right: 1.875rem;
+  text-align: center;
+}
+
+p {
+  margin: 0 1.875rem;
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+}
