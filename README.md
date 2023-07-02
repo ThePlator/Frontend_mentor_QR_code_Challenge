@@ -22,7 +22,7 @@ It's not that hard project. It is based on Box-Model in which we create the a di
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [QR-code](https://theplator.github.io/Frontend_mentor_QR_code_Challenge/)
 
 ## My process
 
